@@ -1,0 +1,1 @@
+ C:\\Users\\haiphong\\Desktop\\dickies_shop_clothes\\.dart_tool\\flutter_build\\accdc0b44f9f203e4ef2908fd5b18e91\\native_assets.yaml: 

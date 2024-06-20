@@ -1,0 +1,316 @@
+{
+   "checksum": "55c0d9a51a817fa11c7edbf9f688ead7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13297522699299540",
+            "date_last_used": "13330051366653115",
+            "guid": "9e168892-7269-4ff0-abd2-88df898d9980",
+            "id": "32",
+            "name": "Dashboard",
+            "type": "url",
+            "url": "https://courses.huflit.edu.vn/my/"
+         }, {
+            "date_added": "13297897014113017",
+            "date_last_used": "0",
+            "guid": "8c027e74-22cc-48b7-bd43-492e39c91bb0",
+            "id": "33",
+            "name": "Cổng thông tin đào tạo",
+            "type": "url",
+            "url": "https://portal.huflit.edu.vn/Home"
+         }, {
+            "date_added": "13298175808797332",
+            "date_last_used": "13362200150972098",
+            "guid": "100f514f-5178-4517-ab05-cdfbd21ebf28",
+            "id": "34",
+            "name": "(1) Facebook",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13298179197635404",
+            "date_last_used": "13334571384725616",
+            "guid": "b69824b1-cd5d-4331-b400-034a5bd77d29",
+            "id": "35",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/?hl=vi"
+         }, {
+            "date_added": "13332648102404944",
+            "date_last_used": "0",
+            "guid": "cfeba105-0fda-4757-9011-5604e3624be6",
+            "id": "36",
+            "name": "OneDrive-2023-06-29.zip - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/1WWAhVE3GKuxvfFrauIBU6qN0FZ1N1JDn/view?fbclid=IwAR1mJns-uRU3i8udwk6vp-Dggz-tkpgrcfy9f000DsVeQPSvDa2Rc-ueaug"
+         }, {
+            "date_added": "13332701548103622",
+            "date_last_used": "13362205130943907",
+            "guid": "bf517a82-572f-4f3e-8f43-de025862cd12",
+            "id": "37",
+            "name": "List of all Windows 10 keyboard shortcuts: The ultimate guide | Windows Central",
+            "type": "url",
+            "url": "https://www.windowscentral.com/best-windows-10-keyboard-shortcuts"
+         }, {
+            "date_added": "13332871881657781",
+            "date_last_used": "0",
+            "guid": "ba88ed08-67fd-4308-9277-96f8fde50392",
+            "id": "38",
+            "name": "Oxford Learner's Dictionaries | Find definitions, translations, and grammar explanations at Oxford Learner's Dictionaries",
+            "type": "url",
+            "url": "https://www.oxfordlearnersdictionaries.com/"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "9b6577b8-c6bb-4164-894e-206c22729260",
+            "id": "39",
+            "name": "(11) HTML & CSS Full Course for free 🌎 (2023) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=HGTJBPNC-Gw"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "22f8dffc-a352-4ace-9205-7d8f29b0ad61",
+            "id": "40",
+            "name": "Material Design",
+            "type": "url",
+            "url": "https://m3.material.io/"
+         } ],
+         "date_added": "13363240645070006",
+         "date_last_used": "0",
+         "date_modified": "13332871881657781",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13329887100952659",
+               "date_last_used": "0",
+               "guid": "4401e404-8e1e-4af4-bb1b-cb66ee3deacc",
+               "id": "19",
+               "name": "Báo cáo CNPM",
+               "type": "url",
+               "url": "https://sthuflitedu-my.sharepoint.com/:x:/g/personal/21dh112614_st_huflit_edu_vn/EXGzvNzPJhxGmCZUy2q_MCMBj0STL-925KkVAFOxvRjuiA?e=9MxVxK&fbclid=IwAR12LM8WlpRQMO_aoC5AhmQGiPxjXhTsR3EAgbhZi5rNGmaueSSMU__MoFw"
+            }, {
+               "date_added": "13363238896763268",
+               "date_last_used": "0",
+               "guid": "583d9aef-ff2f-4966-b9e2-0a60e4bc53f6",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Gemini",
+               "type": "url",
+               "url": "https://gemini.google.com/app"
+            } ],
+            "date_added": "13298127162873938",
+            "date_last_used": "0",
+            "date_modified": "13363238896763268",
+            "guid": "aa4f2ab3-42f2-465f-aca6-192c41b8c671",
+            "id": "18",
+            "name": "Bookmark Bar",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "338137d3-15f4-43aa-8801-aa7876c3e3d1",
+               "id": "22",
+               "name": "Phim Sousou no Frieren Tập 8 || AnimeHay",
+               "type": "url",
+               "url": "https://animehay.city/xem-phim/sousou-no-frieren-tap-8-59658.html"
+            } ],
+            "date_added": "13298127162874547",
+            "date_last_used": "0",
+            "date_modified": "13298127162874547",
+            "guid": "640f57d6-35b1-4614-8fff-55d17fc0df2d",
+            "id": "21",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "559ce588-123b-48de-b006-fe24fd4972b4",
+               "id": "24",
+               "name": "Garena Topup Center",
+               "type": "url",
+               "url": "https://napthe.vn/app/32787/buy/0/205168/item/3"
+            }, {
+               "children": [ {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "f47021d7-9f7f-494b-b8c9-0bf2400ae025",
+                  "id": "26",
+                  "name": "Giỏ hàng - Memoryzone - Professional in Memory",
+                  "type": "url",
+                  "url": "https://memoryzone.com.vn/gio-hang/"
+               }, {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "815552b9-2b62-4646-be95-b6ac39ee67a7",
+                  "id": "27",
+                  "name": "[Kimochi] Maitetsu R18 (Fan patch).rar - Google Drive",
+                  "type": "url",
+                  "url": "https://drive.google.com/file/d/1MkmWzw0zfmyN_vBjiVGnkpMwQOWIhSlO/view"
+               }, {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "706ce81e-564e-45f5-8250-91844ed0e8ef",
+                  "id": "28",
+                  "name": "Anime Hay | Phim Anime | Xem Anime | Anime Vietsub | Anime HD Online",
+                  "type": "url",
+                  "url": "http://animehay.tv/"
+               }, {
+                  "date_added": "13326799837706146",
+                  "date_last_used": "0",
+                  "guid": "ab73393a-f583-43f7-b215-aae50915922f",
+                  "id": "29",
+                  "name": "0303_G14_05.docx - Google Tài liệu",
+                  "type": "url",
+                  "url": "https://docs.google.com/document/d/1brFFySYvikHLAIuAKSWDrXuycB_v1Zve/edit#"
+               } ],
+               "date_added": "13300572799950929",
+               "date_last_used": "0",
+               "date_modified": "13326799837706146",
+               "guid": "b9c5314f-c038-4a4d-8756-209fc1490efc",
+               "id": "25",
+               "name": "Ram",
+               "type": "folder"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "a6d33c38-7ad4-4528-8d52-e2c8ca003a32",
+               "id": "30",
+               "name": "Đọc truyện ECSTAS ONLINE Online",
+               "type": "url",
+               "url": "http://truyentranh360.com/truyen/1233-ecstas-online/?fbclid=IwAR2Mg_XUTyKYSbksdeI4wo4r9ZCBIlFPqqQjjFWNb4gtZDR5eEmOMRmGQ8I"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "2bb42676-eec8-423a-94a2-780f75aa0a32",
+               "id": "31",
+               "name": "Đọc truyện Isekai Harem Monogatari Online",
+               "type": "url",
+               "url": "http://truyentranh360.com/truyen/5502-isekai-harem-monogatari/"
+            } ],
+            "date_added": "13298127162874636",
+            "date_last_used": "0",
+            "date_modified": "13298127162874636",
+            "guid": "97ec7361-4036-41aa-87e4-4278f38af9f1",
+            "id": "23",
+            "name": "Synced Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13363240645070010",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13283787628579451",
+            "date_last_used": "0",
+            "guid": "cdae9b2a-5657-4bf0-bd47-bd4fa33f7ca5",
+            "id": "7",
+            "name": "Авиабилеты",
+            "type": "url",
+            "url": "https://avia.yandex.ru/?win=519&clid=2341043-18&utm_source=distribution&utm_medium=bookmark&utm_campaign=ru"
+         }, {
+            "date_added": "13283787628579459",
+            "date_last_used": "0",
+            "guid": "165bbecd-154f-4819-899c-cb20d3dd739f",
+            "id": "8",
+            "name": "Яндекс",
+            "type": "url",
+            "url": "https://www.yandex.ru/?win=519&clid=2341043-18&from=dist_bookmark"
+         }, {
+            "children": [ {
+               "date_added": "13157468831229259",
+               "date_last_used": "0",
+               "guid": "06d80c10-1a4a-4292-8b11-457119210491",
+               "id": "10",
+               "name": "Giỏ hàng - Memoryzone - Professional in Memory",
+               "type": "url",
+               "url": "https://memoryzone.com.vn/gio-hang/"
+            }, {
+               "date_added": "13179411611858433",
+               "date_last_used": "0",
+               "guid": "2854e77f-ff86-40d4-a863-be34ccaf6c51",
+               "id": "11",
+               "name": "[Kimochi] Maitetsu R18 (Fan patch).rar - Google Drive",
+               "type": "url",
+               "url": "https://drive.google.com/file/d/1MkmWzw0zfmyN_vBjiVGnkpMwQOWIhSlO/view"
+            }, {
+               "date_added": "13180530855936912",
+               "date_last_used": "0",
+               "guid": "6a8a8af4-fb32-4b04-bde4-a399f1570e9b",
+               "id": "12",
+               "name": "Anime Hay | Phim Anime | Xem Anime | Anime Vietsub | Anime HD Online",
+               "type": "url",
+               "url": "http://animehay.tv/"
+            }, {
+               "date_added": "13293290216973909",
+               "date_last_used": "0",
+               "guid": "072281bd-2dac-47d1-b7ce-827ba8928a1a",
+               "id": "13",
+               "name": "Dashboard | HackerRank",
+               "type": "url",
+               "url": "https://www.hackerrank.com/dashboard"
+            }, {
+               "date_added": "13293290222500787",
+               "date_last_used": "0",
+               "guid": "08805104-a3f2-4a8e-9867-be59f19cf477",
+               "id": "14",
+               "name": "Algorithms - GeeksforGeeks",
+               "type": "url",
+               "url": "https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm"
+            } ],
+            "date_added": "13290971519465559",
+            "date_last_used": "0",
+            "date_modified": "13293290222500787",
+            "guid": "65cab91a-77bb-4875-b1c2-307a85456dd9",
+            "id": "9",
+            "name": "Ram",
+            "type": "folder"
+         }, {
+            "date_added": "13204639006615522",
+            "date_last_used": "0",
+            "guid": "ef7d6478-cd60-4b55-8148-99ccc3884cd8",
+            "id": "15",
+            "name": "Đọc truyện ECSTAS ONLINE Online",
+            "type": "url",
+            "url": "http://truyentranh360.com/truyen/1233-ecstas-online/?fbclid=IwAR2Mg_XUTyKYSbksdeI4wo4r9ZCBIlFPqqQjjFWNb4gtZDR5eEmOMRmGQ8I"
+         }, {
+            "date_added": "13204651127667184",
+            "date_last_used": "0",
+            "guid": "1d53d3fa-d010-4767-a1fa-12f342816ff2",
+            "id": "16",
+            "name": "Đọc truyện Isekai Harem Monogatari Online",
+            "type": "url",
+            "url": "http://truyentranh360.com/truyen/5502-isekai-harem-monogatari/"
+         }, {
+            "date_added": "13277233381557791",
+            "date_last_used": "0",
+            "guid": "be96f9a8-96f8-4679-adfb-a7c6729466c0",
+            "id": "17",
+            "name": "Garena Topup Center",
+            "type": "url",
+            "url": "https://napthe.vn/app/32787/buy/0/205168/item/3"
+         } ],
+         "date_added": "13363240645070012",
+         "date_last_used": "0",
+         "date_modified": "13283787628579459",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

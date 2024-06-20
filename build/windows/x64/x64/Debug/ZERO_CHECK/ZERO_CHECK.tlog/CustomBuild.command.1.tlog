@@ -1,0 +1,10 @@
+^C:\USERS\HAIPHONG\DESKTOP\DICKIES_SHOP_CLOTHES\BUILD\WINDOWS\X64\CMAKEFILES\8EFE9F23120AEC62E17FF9970673F833\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/haiphong/Desktop/dickies_shop_clothes/windows -BC:/Users/haiphong/Desktop/dickies_shop_clothes/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/haiphong/Desktop/dickies_shop_clothes/build/windows/x64/dickies_shop_clothes.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

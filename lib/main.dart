@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:dickies_shop_clothes/screens/login.dart'; // Import the LoginScreen from the correct file
+import 'package:dickies_shop_clothes/app.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,9 +11,9 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       title: 'Dickies Shop Clothes',
-      home: LoginScreen(),
+      home: App(),
     );
   }
 }

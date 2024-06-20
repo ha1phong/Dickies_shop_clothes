@@ -9,15 +9,15 @@ class LoginScreen extends StatefulWidget {
 
 class _LoginScreenState extends State<LoginScreen> {
   void _login() {
-    // Thêm logic xử lý đăng nhập tại đây
-    print('Đăng ký');
+    // This is the place to add login handling logic
+    print('Login');
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Welcome back!'),
+        title: const Text('Welcome back'),
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () => Navigator.of(context).pop(),
@@ -28,10 +28,10 @@ class _LoginScreenState extends State<LoginScreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            Image.asset('assets/logo.png'), // Thêm logo
+            Image.asset('assets/logo.png'), // Hiển thị logo
             const SizedBox(height: 16.0),
             const Text(
-              'Hello Newer!',
+              'Xin chào!',
               style: TextStyle(
                 fontSize: 24.0,
                 fontWeight: FontWeight.bold,
@@ -48,14 +48,14 @@ class _LoginScreenState extends State<LoginScreen> {
             const SizedBox(height: 16.0),
             TextField(
               decoration: const InputDecoration(
-                labelText: 'User name',
+                labelText: 'Tên người dùng',
                 border: OutlineInputBorder(),
               ),
             ),
             const SizedBox(height: 16.0),
             TextField(
               decoration: const InputDecoration(
-                labelText: 'Password',
+                labelText: 'Mật khẩu',
                 border: OutlineInputBorder(),
               ),
               obscureText: true,
@@ -66,11 +66,11 @@ class _LoginScreenState extends State<LoginScreen> {
               style: ElevatedButton.styleFrom(
                 backgroundColor: Colors.blue,
               ),
-              child: const Text('Sign Up'),
+              child: const Text('Đăng nhập'),
             ),
             const SizedBox(height: 16.0),
             const Divider(),
-            const Text('or with'),
+            const Text('hoặc đăng nhập bằng'),
             const SizedBox(height: 8.0),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
@@ -78,14 +78,14 @@ class _LoginScreenState extends State<LoginScreen> {
                 IconButton(
                   icon: Image.asset('assets/facebook.png'),
                   onPressed: () {
-                    // Thêm logic đăng nhập bằng Facebook
+                    // Thêm logic đăng nhập bằng Facebook tại đây
                   },
                 ),
                 const SizedBox(width: 16.0),
                 IconButton(
                   icon: Image.asset('assets/google.png'),
                   onPressed: () {
-                    // Thêm logic đăng nhập bằng Google
+                    // Thêm logic đăng nhập bằng Google tại đây
                   },
                 ),
               ],
